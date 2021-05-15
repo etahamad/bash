@@ -2,6 +2,6 @@
 
 ### Usage
 ```bash
-$ git clone https://github.com/etahamad/mybash.git
-$ sudo bash mybash/sporify/install.sh
+git clone https://github.com/etahamad/mybash.git
+bash mybash/sporify/install.sh
 ```
